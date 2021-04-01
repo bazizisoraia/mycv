@@ -1,0 +1,14 @@
+h1{
+    color: brown;
+
+
+}
+
+
+
+<form>
+  <input type="just " placeholder="Votre nom d'utilisateur"><br>
+  <input type="password" placeholder="Votre mot de passe"><br>
+  <input type="email" placeholder="Votre adresse email"><br>
+  <input type="submit" value="Envoyer le formulaire">
+</form>
